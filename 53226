@@ -1,0 +1,90 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="css/style.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+ <script>src="js/scripts.js" </script>  
+ <center><h1>hello in my website </h1></center>
+ <center><h2>01149649979 للتواصل  </h2></center>
+
+ <div style="background-color:#db9223;border-radius:47px;border:7px solid #000000;margin:15px 0;padding:20px">
+ <h1>ركن الالعاب </h1>
+ <h2>هذا موقع العاب اكترونية</h2>
+ <h4> جميع الالعاب موجودة هنا</h4>
+<ul>
+    <li><h4>جميع العاب dls </h4></li>
+    <li><h4>جميع العاب السيارات</h4></li>
+    <li><h4>جميع العاب كرة القدم  </h4></li>
+</ul>
+
+
+ <p>
+ <a href="https://allamsoft.com">اضغط هنا</a> 
+ </p>  
+ </div>
+
+ <center><h1>_____________________________________________________</h1></center>
+ <div style="background-color:#35ad3f;border-radius:47px;border:7px solid #000000;margin:15px 0;padding:15px">
+ <h1> ركن التطبيقات </h1>
+ <center><h2>بالاضافة الي التطبيقات اليومية  </h2></center>
+ <h4> ستجد كل التطبيقات التي تحتاجها   </h4>
+  <h4> 
+  <ul>
+  <li>تطبيقات ادارةالهاتف الهاتف  </li>
+  <li>تطبيقات متنوعة</li> 
+  </ul> 
+</h4>
+ <h4> لتحميل التطبيقات </h4>
+ <a href="https://techs4arab.com">اضغط هنا </a>
+ <h4> او </h4>
+ <a href="https://e5tarle.org">اضغط هنا </a>
+ </div>
+ <center><h1>_____________________________________________________</h1></center>
+ <div style="background-color:#913c47;border-radius:47px;border:7px solid #000000;margin:15px 0;padding:20px">
+ <h1>ركن لطلاب الصف الاول الثانوي  </h1>
+ <h4> لدخول منصة كيريو اليبانية لطلاب الصف الاول الثانوي </h4>
+  <a href="https://af-portal.qureo.education/login">اضغط هنا</a>
+  <h4> موقع افرح لحل جميع مستويات منصة كيريو</h4>
+ <a href="https://www.efrah7.com/?m=1 ">اضغط هنا</a>
+  <h4> تحميل تطبيق لتنزيل التقييمات والاداءات الصفية والمنزلية</h4>
+  <a href="https://play.google.com/store/apps/details?id=com.drmohamedrezksite">اضغط هنا    </a>
+  </div>
+  
+ 
+ 
+ 
+ 
+  <center><h1>_____________________________________________________</h1></center>
+  <div style="background-color:#7c2775;border-radius:7px;border:7px solid #000000;margin:15px 0;padding:20px">
+  <center><h1> للتواصل معي </h1></center>
+  <div style="background-color:#b49bff;border-radius:24px;border:2px solid #000000;margin:20px 0;padding:5px">
+
+  <center><h3><a href="https://www.facebook.com/profile.php?id=61576000559709">visit my facebook</a></h3></center>
+  </div> 
+
+  <div style="background-color:#b49bff;border-radius:24px;border:2px solid #000000;margin:20px 0;padding:5px">
+ <center><h3><a class="btn" href="https://wa.me/+201149769979">محمد جمال      (واتساب) </a></h3></center>
+
+</div>
+ 
+
+<body style="background:linear-gradient(135deg,#7c3aed,#239b3d);"></body>
+
+</div>
+<center><h2>_______________________________________</h2></center>
+ <center><h1> الموقع تحت التطوير (beta) </h1></center>
+ 
+ 
+
+ <button onclick="nextPage()">التالي</button>
+ 
+
+
+
+</body>
+</html>
